@@ -101,7 +101,7 @@ Visit [Nx Cloud](https://nx.app/) to learn more.
 
 ## https://dev.to/beeman/add-graphql-to-a-nestjs-api-in-a-nx-workspace-2p8n
 
-- You'll need apollo driver for newer versions of Nest. [GraphQL Migration Guide](https://docs.nestjs.com/graphql/migration-guide)
+- You'll need apollo driver for newer versions of Nest. [GraphQL Migration Guide (Migrating to v10)](https://docs.nestjs.com/graphql/migration-guide)
 
 ### Commands Used
 
