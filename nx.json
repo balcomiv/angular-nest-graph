@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
-  "npmScope": "anular-nest-graph",
+  "npmScope": "angular-nest-graph",
   "affected": {
     "defaultBase": "main"
   },

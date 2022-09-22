@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'anular-nest-graph-root',
+  selector: 'angular-nest-graph-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss'],
 })

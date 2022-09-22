@@ -2,7 +2,7 @@
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
   "projectType": "application",
   "sourceRoot": "apps/example/src",
-  "prefix": "anular-nest-graph",
+  "prefix": "angular-nest-graph",
   "targets": {
     "build": {
       "executor": "@angular-devkit/build-angular:browser",
